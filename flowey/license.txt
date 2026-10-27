@@ -1,0 +1,11 @@
+Model Information:
+* title:	Flowey the flower
+* source:	https://sketchfab.com/3d-models/flowey-the-flower-40b77087a494482082c6380ec13c24be
+* author:	Ghirahimlink (https://sketchfab.com/Ghirahimlink)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Flowey the flower" (https://sketchfab.com/3d-models/flowey-the-flower-40b77087a494482082c6380ec13c24be) by Ghirahimlink (https://sketchfab.com/Ghirahimlink) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
