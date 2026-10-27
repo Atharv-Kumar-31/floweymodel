@@ -1,0 +1,11 @@
+Model Information:
+* title:	Controller Fami Com NES
+* source:	https://sketchfab.com/3d-models/controller-fami-com-nes-e1be84e64d144366af279ed6b19c7662
+* author:	sander-ndreca (https://sketchfab.com/sander-ndreca)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Controller Fami Com NES" (https://sketchfab.com/3d-models/controller-fami-com-nes-e1be84e64d144366af279ed6b19c7662) by sander-ndreca (https://sketchfab.com/sander-ndreca) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
